@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm Abeshek! 👋
+<img src="https://raw.githubusercontent.com/ab7-dev/ab7-dev/main/.github/assets/abeshek-starfield.svg" width="100%" alt="Abeshek B — animated star field" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+useful+things+with+code;Exploring+AI%2C+full-stack%2C+and+computer+vision;Always+working+on+the+next+cool+project." alt="Animated introduction" />
 
